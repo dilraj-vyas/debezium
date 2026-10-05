@@ -82,7 +82,7 @@ comil4444,崔世杰
 connorszczepaniak-wk,Connor Szczepaniak
 cuong-dang,Cuong Dang
 cwholmes,Cody Holmes
-d1vyanshu-kumar,Divyanshu Kumar
+d1vyanshu-kumar,Dilraj vyas,Divyanshu Kumar
 daanroosen-DS,Daan Roosen
 daha,David Haglund
 dajerome,David Jerome
